@@ -3,7 +3,7 @@
 ## Purpose
 
 CogniMem is a local-first memory system for personalized AI agents. It turns raw
-conversation messages into structured memories, decides how useful they are,
+conversation messages into structured memories, decides how  useful they are,
 keeps revision history, retrieves relevant evidence later, and can generate
 cited answers from that evidence.
 
